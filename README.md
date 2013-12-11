@@ -16,8 +16,20 @@ respective light.
 - `unsigned int rightSensorReading()`
    - returns the value from the right sensor
 
+- `void initializeLights()`
+   - Initializes the lights on the MSP430
 
+- `void turnLeftLightOn()`
+   - turns the left light on
 
+- `void turnRightLightOn()`
+   - turns the right light on
+
+- `void turnLeftLightOff()`
+   - turns the left light off
+
+- `void turnRightLightOff()`
+   - turns the right light off
 
 ## Sample code
 
